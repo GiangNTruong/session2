@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Modele02-JAVA 1-vscode.iml" filepath="$PROJECT_DIR$/Modele02-JAVA 1-vscode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestKeThua/TestKeThua.iml" filepath="$PROJECT_DIR$/TestKeThua/TestKeThua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThucHanhOOPtrenlop/ThucHanhOOPtrenlop.iml" filepath="$PROJECT_DIR$/ThucHanhOOPtrenlop/ThucHanhOOPtrenlop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session3-array/session3-array.iml" filepath="$PROJECT_DIR$/session3-array/session3-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4HInhtronOOP/session4HInhtronOOP.iml" filepath="$PROJECT_DIR$/session4HInhtronOOP/session4HInhtronOOP.iml" />
+    </modules>
+  </component>
+</project>
