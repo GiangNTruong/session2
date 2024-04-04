@@ -110,6 +110,8 @@ public class ProductManagement {
         }
         if (!found) {
             System.out.println("Không có trong danh sách");
+        }else {
+            System.out.println("Thay đổi thành công");
         }
     }
 
